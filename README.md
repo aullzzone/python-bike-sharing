@@ -14,7 +14,7 @@ This project aims to analyze bike rental data using Python, focusing on understa
 - `Dashboard/`: This directory contains dashboard.py which is used to create dashboards of data analysis results.
 - `Bike_Sharing_Dataset/`: Directory containing the raw CSV data files.
 - `Proyek_Analisis_Data.ipynb/`: This file is used to perform data analysis.
-- `Requirements.txt/`: This file lists all the modules needed.
+- `requirements.txt/`: This file lists all the modules needed.
 - `README.md`: This documentation file.
 
 ## Installation
@@ -28,7 +28,7 @@ cd python-bike-sharing
 ```
 3. Install the required Python packages by running:
 ```
-pip install -r Requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Usage
