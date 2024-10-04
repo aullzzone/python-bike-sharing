@@ -8,7 +8,7 @@
 - [Data Sources](#data-sources)
 
 ## Overview
-.....
+This project aims to analyze bike rental data using Python, focusing on understanding rental patterns based on various factors such as time of day, temperature, and day type.
 
 ## Project Structure
 - `Dashboard/`: This directory contains dashboard.py which is used to create dashboards of data analysis results.
